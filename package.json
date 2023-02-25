@@ -1,0 +1,23 @@
+{
+  "name": "notify-garbage-day-hp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiritera/notify-garbage-day-hp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiritera/notify-garbage-day-hp/issues"
+  },
+  "homepage": "https://github.com/kiritera/notify-garbage-day-hp#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
